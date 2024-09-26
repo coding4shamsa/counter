@@ -1,0 +1,44 @@
+
+button{
+    margin: auto;
+    width: 30%;
+    border: none;
+    border-radius: 10px;
+padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 32px;
+    display: block;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+
+.increment-btn{
+    background-color: darkred;
+    
+}
+
+.save-btn{
+    background-color: green;
+}
+#count-el, h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
+
+#save-el{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    
+} 
+
+ body{
+    background-image: url(download.jpeg);
+    background-repeat: no-repeat;  
+    background-size: cover; 
+    
+}
